@@ -689,6 +689,10 @@
     --color-text-url-hover: hsl(200deg 100% 25%);
     --color-text-settings-field-hint: hsl(0deg 0% 57%);
 
+    /* Settings */
+    --color-realm-enable-spectator-access-link: hsl(0deg 0% 20%);
+    --color-unmute-stream-hover: hsl(0deg 0% 20%);
+
     /* Markdown colors */
     --color-background-rendered-markdown-thead: hsl(0deg 0% 93%);
     --color-border-rendered-markdown-table: hsl(0deg 0% 80%);
@@ -1139,6 +1143,10 @@
     );
     --color-text-url-hover: hsl(200deg 79% 66%);
     --color-text-settings-field-hint: hsl(0deg 0% 52%);
+
+    /* Settings */
+    --color-realm-enable-spectator-access-link: hsl(236deg 33% 90%);
+    --color-unmute-stream-hover: hsl(0deg 0% 100%);
 
     /* Markdown colors */
     --color-background-rendered-markdown-thead: hsl(0deg 0% 0% / 50%);
